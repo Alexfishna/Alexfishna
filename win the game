@@ -1,2 +1,2 @@
-showMesggege(price);
+alert(price);
 let price = victory;
